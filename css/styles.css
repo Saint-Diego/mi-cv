@@ -156,7 +156,7 @@ li {
 }
 
 .contactos, .habilidades-tecnicas, .habilidades-blandas {
-  margin-left: 40px;
+  margin-left: 30px;
 }
 
 /*.....................*/
@@ -165,10 +165,6 @@ li {
 
 .tipo-contacto {
   color: white;
-  font-family: 'Montserrat', 'Arial';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
   line-height: 24px;
   margin-right: 5px;
 }
@@ -180,7 +176,7 @@ li {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  opacity: 0.5;
+  text-decoration: none;
 }
 
 /*..................*/
